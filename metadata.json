@@ -1,0 +1,6 @@
+{
+  "name": "Bloom by Kavi — Handmade Bangles & Craft Studio",
+  "description": "Interactive 3D craft studio and custom order enquiry website for Bloom by Kavi (@bloom_by_kavi06): handmade bangles, DIY craft kits, and pipe cleaner florals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
